@@ -1,2 +1,2 @@
 # bird-skinner-bot
-Simple node.js bot to scrap words from bird bot on jklm.fun
+Simple node.js bot to scrape words from bird bot on jklm.fun
